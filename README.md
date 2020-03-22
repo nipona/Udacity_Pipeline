@@ -48,6 +48,8 @@ ML Pipeline , train_classifier.py, write a machine learning pipeline that: Loads
 |- ETL Pipeline Preparation.ipynb # etl code
 |- ML Pipeline Preparation.ipynb # ml code
 
+```
+
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
 
